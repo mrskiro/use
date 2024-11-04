@@ -9,14 +9,14 @@
 
 # Browser
 
-- Google Chrome
+- Google Chrome (Develop)
+- Arc (Browsing)
 
 # Chrome Extensions
 
 - [DeepL](https://chrome.google.com/webstore/detail/cofdbpoegempjloogbagkncekinflcnj)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg)
 - [Raindrop](https://chrome.google.com/webstore/detail/ldgfbffkinooeloadekpmfoklnobpien)
-- [Readwise Highlighter](https://chrome.google.com/webstore/detail/jjhefcfhmnkfeepcpnilbbkaadhngkbi)
 - [Bitwarden](https://chromewebstore.google.com/detail/nngceckbapebfimnlniiiahkandclblb)
 - [daily.dev](https://chrome.google.com/webstore/detail/jlmpjdjjbgclbocgajdjefcidcncaied)
 
@@ -26,14 +26,14 @@
   - Window management
   - Clipboard History
 - [Kap](https://getkap.co/) - GIF Recorder
-- [Skitch](https://formulae.brew.sh/cask/skitch) - Screen Capture with mark up
+- [shottr](https://shottr.cc/) - Screen Capture with mark up
 
 # Hardware
 
 - MacBook Air M1 16GB
 - Microphone: EarPods or AfterShokz Aeropex
 - Monitor: DELL U2720Q
-- Mouse: Magic Trackpad
+- Mouse: Magic Trackpad or Ergo M575SP
 - Keyboard: Halo 65
 - Chair: Ergohuman Pro Ottoman
 - Desk: FLEXISPOT E7B
